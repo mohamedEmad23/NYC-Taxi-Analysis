@@ -3,4 +3,5 @@
 .venv/
 utils/
 tests/
+models/
 setup.py
