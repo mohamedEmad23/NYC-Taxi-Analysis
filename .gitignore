@@ -1,3 +1,4 @@
+# Git ignore file for nyc-taxi-analysis
 .env
 .venv
 utils/
