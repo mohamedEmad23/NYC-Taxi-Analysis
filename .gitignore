@@ -1,6 +1,6 @@
 # Git ignore file for nyc-taxi-analysis
 .env
-.venv
+.venv/
 utils/
 tests/
 setup.py
