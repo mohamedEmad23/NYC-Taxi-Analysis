@@ -4,4 +4,5 @@
 utils/
 tests/
 models/
+processed-data/nyc_taxi_processed_sample.csv
 setup.py
